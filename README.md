@@ -16,6 +16,7 @@ Our favourite tools to rapidly building web, desktop and mobile apps
 ### Design frameworks
 
 - [materialize](http://materializecss.com/) - Google's Material Design as a comprehensive CSS framework. Beautiful out of the box.
+  - [material design icons](https://materialdesignicons.com/) - community-improved version of the official Material Design icon font. Hundreds more icons!
 
 ### Single-purpose tools
 
