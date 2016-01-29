@@ -1,6 +1,6 @@
 # List of app development tools
 
-Our favourite tools to rapidly building web, desktop and mobile apps
+Our favourite tools for rapidly building web, desktop and mobile apps
 
 
 ### App development frameworks
@@ -35,3 +35,7 @@ We've included three options here, because they cater for different levels of co
 #### Hotkeys
 
 - [mousetrap](https://github.com/ccampbell/mousetrap) - small, simple and fairly feature-complete.
+
+### Drag-and-drop
+
+- [dragula](http://bevacqua.github.io/dragula/) is the only show in town. Seriously slick library to add draggability to your divs. 
