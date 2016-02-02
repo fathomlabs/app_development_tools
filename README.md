@@ -18,6 +18,11 @@ Our favourite tools for rapidly building web, desktop and mobile apps
 - [materialize](http://materializecss.com/) - Google's Material Design as a comprehensive CSS framework. Beautiful out of the box.
   - [material design icons](https://materialdesignicons.com/) - community-improved version of the official Material Design icon font. Hundreds more icons!
 
+### Colour scheme help
+
+- [pltts.me](http://pltts.me) just a library of beautiful, modern colour schemes
+- [colorhexa](http://www.colorhexa.com/) go deep into a colour to learn about what it works with
+
 ### Single-purpose tools
 
 #### Time and date handling
